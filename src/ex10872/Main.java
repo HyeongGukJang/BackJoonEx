@@ -12,7 +12,7 @@ public class Main {
 	    ans = 1; //초기화
 
 	    fac(num);
-
+ 
 	    System.out.print(ans);
 	  }
 
